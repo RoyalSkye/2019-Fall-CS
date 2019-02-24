@@ -14,15 +14,15 @@ GRE:319(V149Q170)+3.5
 一段实习经历(Java Web) 两次校奖学金 竞赛小奖 三封推荐信均来自学校老师
 ```
 ### Decision
-```
+---
 ID|University|Submitted Date|Decision Date|Decision|CS Ranking
 :--:|:--:|:--:|:--:|:--:|:--:
 1|NEU-CS|12/25/2018|02/02/2019|AD|49
 2|UVA-CE|12/25/2018|02/05/2019|Rej|30
 3|UTD-CS|12/20/2018|02/07/2019|AD|64
-```
+
 ### 一些我收藏的文章
-***
+
 1. [TOEFL 独立写作1](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=457373&extra=page%3D1)
 
 2. [TOEFL 独立写作2](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=445404#lastpost)
