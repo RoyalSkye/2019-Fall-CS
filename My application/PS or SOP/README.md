@@ -10,7 +10,7 @@
 
 ### Reference
 
-1. [文书的误区与心](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=144916)
+1. [文书的误区与心得](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=144916)
 
 
 

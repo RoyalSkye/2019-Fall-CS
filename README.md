@@ -1,7 +1,7 @@
 # 2019-Fall-CS
 ## Say farewell to ETS && Apply to USA -- Graduate Programs
 
-[学长(NWU-CS)的资料](https://github.com/Aaron0813/Flying-Aboard.git)
+学长(NWU-CS)的资料: [Aaron](https://github.com/Aaron0813/Flying-Aboard.git)
 ### Abstract
 ```
 1.申请的时候查了很多资料，不过有很多资料感觉没什么用，放到Application里了，重要的放在My application中
@@ -23,6 +23,7 @@ GRE:319(V:149 Q:170)+3.5
 |1|[NEU-CS](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|02/02/2019|AD|49|
 |2|[UVA-CE](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|02/05/2019|Rej|30|
 |3|[UTD-CS](https://www.utdallas.edu/admissions/graduate/degrees/detail.php?d=151)|12/20/2018|02/07/2019|AD|64|
+|4|[Syracuse-CS](http://eng-cs.syr.edu/program/computer-science/?degree=masters_program&_ga=2.11050096.571651160.1552228987-245570441.1552228987)|12/20/2018|03/10/2019|AD|68|
 
 ### 一些我收藏的文章
 
@@ -44,7 +45,19 @@ GRE:319(V:149 Q:170)+3.5
 
 9. [考研成功心血来潮Gap一年 19fall DIY 总结](https://www.1point3acres.com/bbs/thread-480684-1-1.html)
 
-
+### 学校网站
+#### UTD
+ ```
+[CS]: https://www.utdallas.edu/admissions/graduate/degrees/detail.php?d=151
+[Apply]: https://utdallasapp.force.com/TX_SiteLogin?startURL=
+[Galaxy]: https://daih-prd.utshare.utsystem.edu/psp/DAIHPRD/EMPLOYEE/EMPL_UTD/h/?tab=DEFAULT
+```
+#### Syracuse
+```
+[CS]: http://eng-cs.syr.edu/program/computer-science/?degree=masters_program&_ga=2.11050096.571651160.1552228987-245570441.1552228987
+[Apply]: https://apply.engineeringonline.syr.edu/login
+[Syracuse-MySlice]: https://myslice.ps.syr.edu/psp/PTL9PROD/EMPLOYEE/EMPL/h/?tab=DEFAULT
+```
 
 
 
