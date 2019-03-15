@@ -16,7 +16,7 @@ TOEFL:104(R:27 L:26 S:26 W:25)
 GRE:319(V:149 Q:170)+3.5
 一段实习经历(Java Web) 两次校奖学金 竞赛小奖 三封推荐信均来自学校老师
 ```
-### Decision
+### Decision(7/23)
 ---
 |ID|University|Submitted Date|Decision Date|Decision|CS Rank|
 |:--:|:--:|:--:|:--:|:--:|:--:|
@@ -24,6 +24,9 @@ GRE:319(V:149 Q:170)+3.5
 |2|[UVA-CE](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|02/05/2019|Rej|30|
 |3|[UTD-CS](https://www.utdallas.edu/admissions/graduate/degrees/detail.php?d=151)|12/20/2018|02/07/2019|AD|64|
 |4|[Syracuse-CS](http://eng-cs.syr.edu/program/computer-science/?degree=masters_program&_ga=2.11050096.571651160.1552228987-245570441.1552228987)|12/20/2018|03/10/2019|AD|68|
+|5|[UVA-CS](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|03/12/2019|Rej|30|
+|6|[NEU-CS Align](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|03/14/2019|AD(因为有cs bg直接录了CS Seattle)|49|
+|7|[CMU INI](https://www.cmu.edu/ini/admissions/howtoapply.html/)|12/28/2018|03/15/2019|WL|1|
 
 ### 一些我收藏的文章
 
@@ -46,6 +49,17 @@ GRE:319(V:149 Q:170)+3.5
 9. [考研成功心血来潮Gap一年 19fall DIY 总结](https://www.1point3acres.com/bbs/thread-480684-1-1.html)
 
 ### 学校网站
+#### UVA
+```
+[CS]: https://engineering.virginia.edu/departments/computer-science
+[Apply]: https://applycentral.virginia.edu/apply/
+```
+#### NEU
+```
+[CS]: https://www.khoury.northeastern.edu/program/computer-science-ms/
+[CS Align]: https://align.khoury.northeastern.edu/#_ga=2.264115087.287069869.1552446020-665463625.1551936489
+[Apply]: https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantConnectLogin.asp?id=neu-grad
+```
 #### UTD
  ```
 [CS]: https://www.utdallas.edu/admissions/graduate/degrees/detail.php?d=151
