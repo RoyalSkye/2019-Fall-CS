@@ -15,21 +15,30 @@ GPA:3.58/5(85.8/100) WES-iGPA(3.55/4)
 MajorGPA:88.2/100 MathGPA:87.2/100
 TOEFL:104(R:27 L:26 S:26 W:25)
 GRE:319(V:149 Q:170)+3.5
-一段实习经历(Java Web) 几个Web项目 两次校奖学金 竞赛小奖 三封推荐信均来自学校老师
+一段实习经历(Java Web) 几个Web项目 三次校奖学金 竞赛小奖 三封推荐信均来自学校老师
 ```
-### Decision(9/23)
+### Apply
+```
+彩票: CMU-INI/ECE, USC-CS/DS, NWU-CS, RICE-MCS, UIUC-ECE-MENG, UCSD-CU75/EC93, UVA-CS/CE, PURDUE-CIT
+主申: NEU-CS/ALIGN, BU-CS, TAMU-CS, RUTGERS-CS, NYU-TANDON-CS, USCS-CS, BRANDEIS-CS, UCR-CS
+保底: SYRACUSE-CS, UTD-CS
+```
+### Decision(12/23)
 ---
-|ID|University|Submitted Date|Decision Date|Decision|CS Rank|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|1|[NEU-CS](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|02/02/2019|AD|49|
-|2|[UVA-CE](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|02/05/2019|Rej|30|
-|3|[UTD-CS](https://www.utdallas.edu/admissions/graduate/degrees/detail.php?d=151)|12/20/2018|02/07/2019|AD|64|
-|4|[Syracuse-CS](http://eng-cs.syr.edu/program/computer-science/?degree=masters_program&_ga=2.11050096.571651160.1552228987-245570441.1552228987)|12/20/2018|03/10/2019|AD|68|
-|5|[UVA-CS](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|03/12/2019|Rej|30|
-|6|[NEU-CS Align](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|03/14/2019|AD(转CS Seattle)|49|
-|7|[CMU-INI](https://www.cmu.edu/ini/admissions/howtoapply.html/)|12/28/2018|03/15/2019|WaitingList|1|
-|8|[UCSC](https://graddiv.ucsc.edu)|12/22/2018|03/23/2019|Rej|58|
-|9|[NYU-Tandon](https://engineering.nyu.edu/admissions/graduate)|12/23/2018|03/23/2019|Rej|30(NYU)|
+|ID|University|Submitted Date|Decision Date|Decision|CS Rank|Note|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|1|[NEU CS](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|02/02/2019|AD|49|Boston校区|
+|2|[UVA CE](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|02/05/2019|Rej|30|
+|3|[UTD CS](https://www.utdallas.edu/admissions/graduate/degrees/detail.php?d=151)|12/20/2018|02/07/2019|AD|64|
+|4|[Syracuse CS](http://eng-cs.syr.edu/program/computer-science/?degree=masters_program&_ga=2.11050096.571651160.1552228987-245570441.1552228987)|12/20/2018|03/10/2019|AD|68|
+|5|[UVA CS](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|03/12/2019|Rej|30|
+|6|[NEU CS-Align](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|03/14/2019|AD|49|因为有CS背景直接录了CS Seattle|
+|7|[CMU INI](https://www.cmu.edu/ini/admissions/howtoapply.html/)|12/28/2018|03/15/2019|WL|1|啊啊真是受宠若惊！|
+|8|[UCSC CS](https://graddiv.ucsc.edu)|12/22/2018|03/23/2019|Rej|58|emmm我太菜了|
+|9|[NYU-Tandon CS](https://engineering.nyu.edu/admissions/graduate)|12/23/2018|03/23/2019|Rej|30|婉拒，让转CE|
+|10|[UCR CS](https://www1.cs.ucr.edu/admissions/graduate/international)|12/24/2018|03/26/2019|AD|61|第一个加州的ad|
+|11|[Rutgers CS](https://www.cs.rutgers.edu)|12/22/2018|03/26/2019|AD|37|
+|12|[BU CS](http://www.bu.edu/cs/masters/program/)|12/22/2018|03/28/2019|WL|49|这个学校like高GRE高Verbal|
 
 ### 学校网站
 #### CMU
@@ -163,3 +172,7 @@ GRE:319(V:149 Q:170)+3.5
 8. [纯干货的2018CS@MS申请总结及2019申请建议](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=447269)
 
 9. [考研成功心血来潮Gap一年 19fall DIY 总结](https://www.1point3acres.com/bbs/thread-480684-1-1.html)
+
+10. [如果重来你不会申请的学校 给后来人参考](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=505970&extra=page%3D1)
+
+11. [别让GPA限制了你的选校 - GPA不到3、半转专业、在职申请CS硕总结](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=501538&extra=page%3D1)
