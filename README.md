@@ -5,7 +5,8 @@
 ### Abstract
 ```
 1.申请的时候查了很多资料，不过有很多资料感觉没什么用，放到Application里了，重要的放在My application中
-2.待更新
+2.今年CS申请竞争依然很大，每年都是历年来竞争最激烈的一年，不过今年内卷严重，人均申了15+项目？出结果的日期晚于往年，真是条条大路通CS...
+3.待更新
 ```
 ### About me
 ```
@@ -23,22 +24,27 @@ GRE:319(V:149 Q:170)+3.5
 主申: NEU-CS/ALIGN, BU-CS, TAMU-CS, RUTGERS-CS, NYU-TANDON-CS, USCS-CS, BRANDEIS-CS, UCR-CS
 保底: SYRACUSE-CS, UTD-CS
 ```
-### Decision(12/23)
+### Decision(17/23)
 ---
 |ID|University|Submitted Date|Decision Date|Decision|CS Rank|Note|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |1|[NEU CS](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|02/02/2019|AD|49|Boston校区|
-|2|[UVA CE](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|02/05/2019|Rej|30|
-|3|[UTD CS](https://www.utdallas.edu/admissions/graduate/degrees/detail.php?d=151)|12/20/2018|02/07/2019|AD|64|
-|4|[Syracuse CS](http://eng-cs.syr.edu/program/computer-science/?degree=masters_program&_ga=2.11050096.571651160.1552228987-245570441.1552228987)|12/20/2018|03/10/2019|AD|68|
-|5|[UVA CS](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|03/12/2019|Rej|30|
-|6|[NEU CS-Align](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|03/14/2019|AD|49|因为有CS背景直接录了CS Seattle|
-|7|[CMU INI](https://www.cmu.edu/ini/admissions/howtoapply.html/)|12/28/2018|03/15/2019|WL|1|啊啊真是受宠若惊！|
-|8|[UCSC CS](https://graddiv.ucsc.edu)|12/22/2018|03/23/2019|Rej|58|emmm我太菜了|
-|9|[NYU-Tandon CS](https://engineering.nyu.edu/admissions/graduate)|12/23/2018|03/23/2019|Rej|30|婉拒，让转CE|
+|2|[UVA CE](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|02/05/2019|Rej|30|以为CEbar比CS低点..|
+|3|[UTD CS](https://www.utdallas.edu/admissions/graduate/degrees/detail.php?d=151)|12/20/2018|02/07/2019|AD|64|需要交中文成绩单|
+|4|[Syracuse CS](http://eng-cs.syr.edu/program/computer-science/?degree=masters_program&_ga=2.11050096.571651160.1552228987-245570441.1552228987)|12/20/2018|03/10/2019|AD|68|说TG分没送到卡了好久|
+|5|[UVA CS](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|03/12/2019|Rej|30|高冷女神校|
+|6|[NEU CS-Align](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|03/14/2019|AD|49|录的CS Seattle|
+|7|[CMU INI](https://www.cmu.edu/ini/admissions/howtoapply.html)|12/28/2018|03/15/2019|WL|1|啊啊真是受宠若惊!|
+|8|[UCSC CS](https://graddiv.ucsc.edu)|12/22/2018|03/23/2019|Rej|58|...|
+|9|[NYU-Tandon CS](https://engineering.nyu.edu/admissions/graduate)|12/23/2018|03/23/2019|Rej|30|婉拒, 让转CE|
 |10|[UCR CS](https://www1.cs.ucr.edu/admissions/graduate/international)|12/24/2018|03/26/2019|AD|61|第一个加州的ad|
-|11|[Rutgers CS](https://www.cs.rutgers.edu)|12/22/2018|03/26/2019|AD|37|
+|11|[Rutgers CS](https://www.cs.rutgers.edu)|12/22/2018|03/26/2019|AD|37|专排不错, AI强适合读博|
 |12|[BU CS](http://www.bu.edu/cs/masters/program/)|12/22/2018|03/28/2019|WL|49|这个学校like高GRE高Verbal|
+|13|[Rice MCS](https://graduate.rice.edu/computerscience)|12/26/2018|04/04/2019|Rej|20|彩票-1|
+|14|[UCSD EC93](https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)|12/27/2018|04/13/2019|Rej|16|彩票-1|
+|15|[USC CS](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/)|12/21/2018|04/14/2019|Rej|20|GPA控|
+|16|[USC DS](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-data-science/)|12/21/2018|04/14/2019|Rej|20|喜提二连拒|
+|17|[Brandeis CS](http://www.brandeis.edu/gsas/programs/computer_science.html#)|12/23/2018|04/16/2019|AD小奖|N/A|第一年给2w刀 小而精的研究型大学 心动|
 
 ### 学校网站
 #### CMU
@@ -176,3 +182,7 @@ GRE:319(V:149 Q:170)+3.5
 10. [如果重来你不会申请的学校 给后来人参考](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=505970&extra=page%3D1)
 
 11. [别让GPA限制了你的选校 - GPA不到3、半转专业、在职申请CS硕总结](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=501538&extra=page%3D1)
+
+12. [推荐一个练口语的办法 - 自己试了效果不错](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=491266&extra=&page=1)
+
+13. [19FALL-MSCS找工向DIY申请总结+感想+建议](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=512151&extra=page%3D1)
