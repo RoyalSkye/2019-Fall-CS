@@ -1,12 +1,17 @@
 # 2019-Fall-CS
-## Say farewell to ETS && Apply to USA -- Graduate Programs
+## Say farewell to ETS && Apply for Graduate Programs(USA)
 
 学长(NWU-CS)的资料: [Aaron](https://github.com/Aaron0813/Flying-Aboard.git)
 ### Abstract
 ```
-1.申请的时候查了很多资料，不过有很多资料感觉没什么用，放到Application里了，重要的放在My application中
-2.今年CS申请竞争依然很大，每年都是历年来竞争最激烈的一年，不过今年内卷严重，人均申了15+项目？出结果的日期晚于往年，真是条条大路通CS...
-3.待更新
+大三上学期期末才决定出国，于是2018这一年刷GPA、忙实训、考TG、申请学校，这一路走来受到过很多人的帮助，特别鸣谢软院的2位学长、1位学姐和帮我写推荐信的3位老师，都是我的榜样~。Thank you all again!
+本Project记录我的19Fall DIY之路，TimeLine:
+07/01/2018 一战T - 12/01/2018 五战杀T
+09/01/2018 一战G - 11/18/2018 二战杀G
+12/15/2018 - 12/31/2018 提交申请(23 programs)
+01/01/2019 - 05/15/2019 Waiting for decisions
+04/30/2019 - F1 1000 REFUSED
+05/09/2019 - STILL WAITING - F1 2000 CHECKED(ADMINISTRATIVE PROCESSING) 
 ```
 ### About me
 ```
@@ -24,32 +29,33 @@ GRE:319(V:149 Q:170)+3.5
 主申: NEU-CS/ALIGN, BU-CS, TAMU-CS, RUTGERS-CS, NYU-TANDON-CS, UCSC-CS, BRANDEIS-CS, UCR-CS
 保底: SYRACUSE-CS, UTD-CS
 ```
-### Decision(22/23)
+### Decision(23/23)
 ---
-|ID|University|Submitted Date|Decision Date|Decision|CS Rank|Note|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|1|[NEU CS](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|02/02/2019|AD|49|Boston校区|
-|2|[UVA CE](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|02/05/2019|Rej|30||
-|3|[UTD CS](https://www.utdallas.edu/admissions/graduate/degrees/detail.php?d=151)|12/20/2018|02/07/2019|AD|64|需要交中文成绩单|
-|4|[Syracuse CS](http://eng-cs.syr.edu/program/computer-science/?degree=masters_program&_ga=2.11050096.571651160.1552228987-245570441.1552228987)|12/20/2018|03/10/2019|AD|68|说TG分没送到卡了好久|
-|5|[UVA CS](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|03/12/2019|Rej|30||
-|6|[NEU CS-Align](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|03/14/2019|AD|49|录的CS Seattle|
-|7|[CMU INI](https://www.cmu.edu/ini/admissions/howtoapply.html)|12/28/2018|03/15/2019|WL|1|啊啊真是受宠若惊!|
-|8|[UCSC CS](https://graddiv.ucsc.edu)|12/22/2018|03/23/2019|Rej|58||
-|9|[NYU-Tandon CS](https://engineering.nyu.edu/admissions/graduate)|12/23/2018|03/23/2019|Rej|30|让转CE|
-|10|[UCR CS](https://www1.cs.ucr.edu/admissions/graduate/international)|12/24/2018|03/26/2019|AD|61||
-|11|[Rutgers CS](https://www.cs.rutgers.edu)|12/22/2018|03/26/2019|AD|37|专排不错, AI强适合读博|
-|12|[BU CS](http://www.bu.edu/cs/masters/program/)|12/22/2018|03/28/2019|WL|49|听说BU like高GRE高Verbal|
-|13|[Rice MCS](https://graduate.rice.edu/computerscience)|12/26/2018|04/04/2019|Rej|20||
-|14|[UCSD EC93](https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)|12/27/2018|04/13/2019|Rej|16||
-|15|[USC CS](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/)|12/21/2018|04/14/2019|Rej|20||
-|16|[USC DS](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-data-science/)|12/21/2018|04/14/2019|Rej|20|喜提二连拒|
-|17|[Brandeis CS](http://www.brandeis.edu/gsas/programs/computer_science.html#)|12/23/2018|04/16/2019|AD小奖|N/A|第一年给2w刀|
-|18|[UIUC ECE Meng](https://ece.illinois.edu)|12/27/2018|04/20/2019|Rej|5||
-|19|[NWU CS](https://www.mccormick.northwestern.edu/computer-science/graduate/)|12/24/2018|04/22/2019|Rej|30||
-|20|[Purdue CIT](https://www.purdue.edu/gradschool/prospective/majors.html)|12/26/2018|05/01/2019|Rej|20||
-|21|[UCSD CU75](https://apply.grad.ucsd.edu/departments/computational-science-mathematics-and-engineering)|12/27/2018|05/07/2019|Rej|16||
-|22|[TAMU CS](https://engineering.tamu.edu/cse/academics/degrees/graduate/index.html)|12/21/2018|05/08/2019|Rej|43||
+|ID|University|Submitted Date|Decision Date|Decision|CS Rank|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|1|[NEU CS](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|02/02/2019|AD|49|
+|2|[UVA CE](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|02/05/2019|Rej|30|
+|3|[UTD CS](https://www.utdallas.edu/admissions/graduate/degrees/detail.php?d=151)|12/20/2018|02/07/2019|AD|64|
+|4|[Syracuse CS](http://eng-cs.syr.edu/program/computer-science/?degree=masters_program&_ga=2.11050096.571651160.1552228987-245570441.1552228987)|12/20/2018|03/10/2019|AD|68|
+|5|[UVA CS](https://engineering.virginia.edu/future-grads/graduate-admission#accordion6763)|12/25/2018|03/12/2019|Rej|30|
+|6|[NEU CS-Align](https://www.khoury.northeastern.edu/academics/masters/masters-apply/)|12/25/2018|03/14/2019|AD|49|
+|7|[CMU INI](https://www.cmu.edu/ini/admissions/howtoapply.html)|12/28/2018|03/15/2019|WaitList|1|
+|8|[UCSC CS](https://graddiv.ucsc.edu)|12/22/2018|03/23/2019|Rej|58|
+|9|[NYU-Tandon CS](https://engineering.nyu.edu/admissions/graduate)|12/23/2018|03/23/2019|Rej|30|
+|10|[UCR CS](https://www1.cs.ucr.edu/admissions/graduate/international)|12/24/2018|03/26/2019|AD|61|
+|11|[Rutgers CS](https://www.cs.rutgers.edu)|12/22/2018|03/26/2019|AD|37|
+|12|[BU CS](http://www.bu.edu/cs/masters/program/)|12/22/2018|03/28/2019|WaitList|49|
+|13|[Rice MCS](https://graduate.rice.edu/computerscience)|12/26/2018|04/04/2019|Rej|20|
+|14|[UCSD EC93](https://apply.grad.ucsd.edu/departments/electrical-and-computer-engineering#machine-learning-and-data-science-ec93)|12/27/2018|04/13/2019|Rej|16|
+|15|[USC CS](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/)|12/21/2018|04/14/2019|Rej|20|
+|16|[USC DS](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-data-science/)|12/21/2018|04/14/2019|Rej|20|
+|17|[Brandeis CS](http://www.brandeis.edu/gsas/programs/computer_science.html#)|12/23/2018|04/16/2019|AD小奖|N/A|
+|18|[UIUC ECE Meng](https://ece.illinois.edu)|12/27/2018|04/20/2019|Rej|5|
+|19|[NWU CS](https://www.mccormick.northwestern.edu/computer-science/graduate/)|12/24/2018|04/22/2019|Rej|30|
+|20|[Purdue CIT](https://www.purdue.edu/gradschool/prospective/majors.html)|12/26/2018|05/01/2019|Rej|20|
+|21|[UCSD CU75](https://apply.grad.ucsd.edu/departments/computational-science-mathematics-and-engineering)|12/27/2018|05/07/2019|Rej|16|
+|22|[TAMU CS](https://engineering.tamu.edu/cse/academics/degrees/graduate/index.html)|12/21/2018|05/08/2019|Rej|43|
+|23|[CMU ECE](https://www.ece.cmu.edu/admissions/graduate-application-deadlines.html)|12/28/2018|05/15/2019|Rej|1|
 
 ### 学校网站
 #### CMU
